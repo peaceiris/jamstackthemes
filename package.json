@@ -18,7 +18,7 @@
     "pageres": "^5.1.0",
     "parse-github-url": "^1.0.2",
     "promise.allsettled": "^1.0.1",
-    "sharp": "^0.23.0",
+    "sharp": "^0.33.5",
     "yaml-front-matter": "^4.0.0",
     "yargs": "^14.2.0"
   },
